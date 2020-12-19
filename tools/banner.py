@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 #Banner For The Script : 
 #The Script Must Start With This Banner So Please Don't Delete This File :'( 
-import sys
-import os
-import time
 print("""
 \033[1;33m                      \_   Horus-Eye  _/                 
 \033[1;33m                      ] --__________-- [               
